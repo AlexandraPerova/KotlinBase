@@ -43,7 +43,7 @@ fun newClassMassive(args: Array<String>) {
     //вариант 7
     val arrayInt7 = intArray(size: 3) { 150; 200; 300}
     //вариант 8
-    val arrayInt8 = intArrayOf { 150; 200; 300}
+    val arrayInt8 = intArrayOf { 150; 200; 3400}
     //вариант 9
     var arrayText = arrayOf("vfdvfd", "vfvdfvfb", "535t4")
 
